@@ -1,21 +1,24 @@
 # Front-End-Portfolio
-Live Demo: https://maxwell999b.github.io/Front-End-Portfolio/
 
-<details>
-  <summary>1. Desktop</summary>
+🌟 Welcome to my Front-End Portfolio! Explore my projects and see the magic of web development come to life.
 
-  ### Dark Mode
-  <img src="https://github.com/Maxwell999b/Front-End-Portfolio/blob/main/screenshot/maxwell999b.github.io_Front-End-Portfolio%20dark_mode.png" alt="Dark Mode" width="300"/>
+### Live Demo
+Visit the live portfolio: [Front-End-Portfolio](https://maxwell999b.github.io/Front-End-Portfolio/)
 
-  ### Light Mode
-  <img src="https://github.com/Maxwell999b/Front-End-Portfolio/blob/main/screenshot/maxwell999b.github.io_Front-End-Portfolio%20white_mode.png" alt="Light Mode" width="300"/>
-</details>
+## Projects Showcase
 
-<details>
-  <summary>2. Mobile</summary>
+### 1. Desktop
 
-  ### Dark Mode
-  <img src="https://github.com/Maxwell999b/Front-End-Portfolio/blob/main/screenshot/maxwell999b.github.io_Front-End-Portfolio_(Samsung%20Galaxy%20S8+)dark_mode.png" alt="Dark Mode" width="300"/>
+- **Dark Mode**
+  ![Dark Mode](https://github.com/Maxwell999b/Front-End-Portfolio/blob/main/screenshot/maxwell999b.github.io_Front-End-Portfolio%20dark_mode.png)
 
-  ### Light Mode
-  <img src="https://github.com/Maxwell999b/Front-End-Portfolio/blob/main/screenshot/maxwell9
+- **Light Mode**
+  ![Light Mode](https://github.com/Maxwell999b/Front-End-Portfolio/blob/main/screenshot/maxwell999b.github.io_Front-End-Portfolio%20white_mode.png)
+
+### 2. Mobile
+
+- **Dark Mode**
+  ![Dark Mode](https://github.com/Maxwell999b/Front-End-Portfolio/blob/main/screenshot/maxwell999b.github.io_Front-End-Portfolio_(Samsung%20Galaxy%20S8+)dark_mode.png)
+
+- **Light Mode**
+  ![Light Mode](https://github.com/Maxwell999b/Front-End-Portfoli
